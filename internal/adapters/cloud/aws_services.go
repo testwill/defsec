@@ -28,7 +28,6 @@ import (
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/neptune"
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/rds"
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/redshift"
-	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/s3"
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/sns"
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/sqs"
 	_ "github.com/aquasecurity/defsec/internal/adapters/cloud/aws/ssm"
